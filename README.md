@@ -5,9 +5,6 @@
 > To create a server, right now, there are lots of packages are available.
 > We use json-server package. So let us install that package.
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
-
-
 ### Installation
 
 Installation on windows
